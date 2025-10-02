@@ -4,6 +4,12 @@ Next.js Webapplikation für ein TechRadar
 
 Auf Vercel deployte Webapplikation: <https://techradar-vercel.vercel.app>
 
+### Logins
+
+- cto@techradar.com/mrboss123 (Rolle cto)
+- techlead@techradar.com/techleader123 (Rolle tech-lead)
+- user@techradar.com/user123 (Rolle user)
+
 ## Beschreibung
 
 Dies ist das WEBLAB Projekt von Mirco Stadelmann für die Blockwoche.
