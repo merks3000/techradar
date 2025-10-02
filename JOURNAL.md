@@ -22,3 +22,4 @@
 | 30.09.2025  |       2 | Navbar Darstellungen mit und ohne Login                                                |
 | 01.10.2025  |       3 | Fazit & Reflexion ausgearbeitet, Doku konsolidiert                                     |
 | 02.10.2025  |     1.5 | Finaler Feinschliff, Abschlusscheck                                                    |
+| Total       |    61.5 |                                                                                        |
