@@ -1,0 +1,10 @@
+# Fazit & Reflexion
+## Was ist gut gelaufen?
+
+Das Projekt ist zügig gestartet. Durch Next.js stand das Grundgerüst sehr schnell, und mit Vercel war das Deployment – inklusive Preview-Umgebungen und Produktion – von Beginn an stabil und komfortabel. Die Anbindung der Datenbasis mit Neon und Prisma gelang überraschend reibungslos; Migrations- und Zugriffslogik liessen sich schlank aufsetzen. Auch im Frontend war das Arbeiten mit Tailwind CSS durch die klaren Utility-Klassen angenehm und produktiv, was die Umsetzung eines konsistenten UI erleichterte. Insgesamt entstand so rasch ein lauffähiger Techradar-Prototyp, der sich iterativ verbessern liess.
+
+## Wo lagen die Herausforderungen?
+Die grösste Hürde war das anfängliche Unwissen in diesem Themenfeld. Ich habe zwar Tutorials recherchiert, sie jedoch häufig nur gelesen statt konsequent ausprobiert. Dadurch fehlte mir zu Beginn praktische Sicherheit, und manche Konzepte wurden erst spät wirklich verstanden. Erschwerend kam hinzu, dass ich viele Tutorials erst nach Fertigstellung grösserer Projektteile durchgearbeitet habe – rückblickend ein ungünstiger Zeitpunkt. Zeitlich war die Arbeit ebenfalls herausfordernd: Ein zweiwöchiger Kurs und der Job banden viel Kapazität, sodass ein erheblicher Teil der Implementierung auf den Abend verlagert werden musste. Dieses Setting führte zu „Es wird dann schon gehen“-Denken, was gelegentlich zu Umwegen führte.
+
+## Was würde ich das nächste Mal anders bzw. besser machen?
+Künftig würde ich zuerst die relevanten Tutorials wirklich hands-on mit kleinen Testprojekten durcharbeiten und erst danach mit dem Hauptprojekt starten um meine Sicherheit mit der Technologie zu erhöhen. Ich verfiel zu Beginn etwas in alte Muster mit dem sofortigen Umsetzen. In Zukunft würde ich mehr darauf achten, zuerst einen gropen und visualisierten Plan zu haben und erst dann zu beginnen. Schliesslich würde ich den Projektverlauf stärker takten: klare Lern- und Umsetzungsblöcke, feste Zeitfenster trotz beruflicher Belastung, sowie ein detaillierteres Backlog.
