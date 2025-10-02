@@ -2,6 +2,23 @@
 
 Next.js Webapplikation für ein TechRadar
 
+## Beschreibung
+
+Dies ist das WEBLAB Projekt von Mirco Stadelmann für die Blockwoche.
+Dabei wird die Aufgabenstellung [Technologieradar](https://github.com/web-programming-lab/web-programming-lab-projekt/blob/95134d1041bce5140a3e29f034154216fcffd7ff/Technologie-Radar.md) ohne Anpassungen am Scope umgesetzt.
+
+## Technologiestack
+
+Ich habe mich für folgenden Stack entschieden :
+- react (Frontend) (und am Ende auch Next.js)
+- Next.js (Backend)
+
+## weitere Dokumente
+
+- [Dokumentation](https://github.com/merks3000/techradar/blob/main/DOKU.md)
+- [Journal](https://github.com/merks3000/techradar/blob/main/JOURNAL.md)
+
+
 ## Voraussetzungen
 - Node **≥24**
 - npm
