@@ -101,10 +101,15 @@ Eine **Technology-Radar** Webanwendung mit zwei Teilen:
 **Wichtige Schnittstellen**
 - HTTP(S)-Routes/Server Actions; Prisma-DB-Zugriff; NextAuth-Routes.
 
+![Overview Diagram](./images/overview.jpg)
+
+
 ## 5.2 Ebene 2 (Auszug)
 - **Admin-UI:** Formulare (Erfassen/Ändern/Publish), Validierungslogik.  
 - **Viewer:** Listen-Darstellung (Sortierung). 
-- **Services:** `createTechnology`, `updateTechnology`, `publishTechnology`, `changeClassification`.  
+- **Services:** `createTechDraft`, `listAllTech`, `updateTechSmart`, `listPublishedTech`.  
+
+![Detail Diagram](./images/detail.jpg)
 
 
 
