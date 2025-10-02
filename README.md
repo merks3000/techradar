@@ -16,6 +16,7 @@ Ich habe mich für folgenden Stack entschieden :
 ## weitere Dokumente
 
 - [Dokumentation](https://github.com/merks3000/techradar/blob/main/DOKU.md)
+- [Reflexion](https://github.com/merks3000/techradar/blob/main/REFLEXION.md)
 - [Journal](https://github.com/merks3000/techradar/blob/main/JOURNAL.md)
 
 
